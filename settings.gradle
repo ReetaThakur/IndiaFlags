@@ -1,0 +1,2 @@
+rootProject.name = "IndiaFlags"
+include ':app'
